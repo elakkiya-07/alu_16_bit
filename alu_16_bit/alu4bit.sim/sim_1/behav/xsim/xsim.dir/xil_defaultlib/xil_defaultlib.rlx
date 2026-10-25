@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/HP/alu4bit/alu4bit.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/HP/alu4bit/alu4bit.srcs/sim_1/new/tbalu4bit.v,1781676880,verilog,,,,tb_alu16,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/HP/alu4bit/alu4bit.srcs/sources_1/new/alu4bit.v,1792950327,verilog,,C:/Users/HP/alu4bit/alu4bit.srcs/sim_1/new/tbalu4bit.v,,alu16,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
